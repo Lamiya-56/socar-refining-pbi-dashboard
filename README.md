@@ -21,5 +21,5 @@ This Power BI dashboard provides a comprehensive analysis of **SOCAR's refining 
 ## 📈 Dashboard Structure
 
 1. **Main Dashboard:** High-level overview of production, safety, and workforce.
-2. **Cost Analysis (Xərclər üzrə):** Deep dive into operational expenditures and supplier performance.
+2. **Cost Analysis:** Deep dive into operational expenditures and supplier performance.
 3. **Process Efficiency:** Analysis of how different processing units perform relative to their efficiency goals.
